@@ -59,6 +59,7 @@ Data preparation includes:
 
 - Checking image readability and validity.
 - Identifying duplicate images.
+- Removing any possible noise that is present (blurry photos, dim lighting, etc.)
 - Performing SHA-256-based file hashing.
 - Performing pixel-level duplicate checks.
 - Examining image formats and dimensions.
